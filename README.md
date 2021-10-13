@@ -24,5 +24,7 @@ A e-commerce multivendor site that is build with django framework , bootstrap, J
 
 # Tech Stack
 * Django
+* Bootstrap
+* JavaScripts
 * Postgres
 * Django REST Framework
